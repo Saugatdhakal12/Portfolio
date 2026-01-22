@@ -7,7 +7,7 @@
 <p align="center">
   <strong>_ENGINEER. _DEVELOPER. _SYSTEM_ARCHITECT.</strong>
   <br><br>
-  <a href="https://saugatdhakal.w3spaces.com">Live Portfolio → saugatdhakal.com.np</a>
+  <a href="https://saugatdhakal.w3spaces.com">Live Portfolio</a>
 </p>
 
 ---
