@@ -30,9 +30,4 @@ Pure HTML • CSS • Vanilla JavaScript with a reactive particle neural network
 HTML5 • CSS3 (variables, transitions, media queries)  
 Vanilla JavaScript (Typed.js, IntersectionObserver, Fetch API)
 
-### Quick Start (local)
 
-```bash
-git clone https://github.com/Saugatdhakal12/Saugatdhakal12.git
-cd Saugatdhakal12
-# Open index.html in browser
