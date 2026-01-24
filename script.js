@@ -100,7 +100,7 @@ window.addEventListener('resize', () => {
 });
 
 new Typed('#typed', {
-    strings: ['_ENGINEER.', '_DEVELOPER.', '_SYSTEM_ARCHITECT.', '_GAMER.'],
+    strings: ['_ENGINEER.', '_DEVELOPER.', '_WEB_DESIGNER.', '_GAMER.'],
     typeSpeed: 70,
     backSpeed: 30,
     loop: true,
